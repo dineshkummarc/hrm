@@ -120,7 +120,7 @@
                             <a href="payments_view.php"><i class="fa fa-money fa-fw"></i>Payments</a>
                         </li>
                         <li>
-                            <a href="http://localhost/rentalmanagement/payments_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=8&FilterOperator%5B1%5D=greater-than&FilterValue%5B1%5D=0"><i class="fa fa-list-alt fa-fw"></i>Outstanding Balances</a>
+                            <a href="payments_view.php?SortField=&SortDirection=&FilterAnd%5B1%5D=and&FilterField%5B1%5D=8&FilterOperator%5B1%5D=greater-than&FilterValue%5B1%5D=0"><i class="fa fa-list-alt fa-fw"></i>Outstanding Balances</a>
                         </li>
                     </ul>
                 </div>
